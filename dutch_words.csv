@@ -1,0 +1,133 @@
+dutch,english,category,difficulty
+hond,dog,nouns,easy
+kat,cat,nouns,easy
+vogel,bird,nouns,easy
+vis,fish,nouns,easy
+paard,horse,nouns,medium
+olifant,elephant,nouns,medium
+rennen,to run,verbs,easy
+eten,to eat,verbs,easy
+slapen,to sleep,verbs,easy
+lezen,to read,verbs,easy
+schrijven,to write,verbs,medium
+springen,to jump,verbs,easy
+werken,to work,verbs,medium
+lachen,to laugh,verbs,easy
+vergeten,to forget,verbs,medium
+huis,house,nouns,easy
+boom,tree,nouns,easy
+water,water,nouns,easy
+boek,book,nouns,easy
+auto,car,nouns,easy
+stad,city,nouns,medium
+tijd,time,nouns,medium
+wereld,world,nouns,medium
+vriend,friend,nouns,easy
+school,school,nouns,easy
+mooi,beautiful,adjectives,easy
+groot,big,adjectives,easy
+klein,small,adjectives,easy
+snel,fast,adjectives,easy
+langzaam,slow,adjectives,easy
+gelukkig,happy,adjectives,medium
+verdrietig,sad,adjectives,medium
+gevaarlijk,dangerous,adjectives,medium
+interessant,interesting,adjectives,medium
+gemakkelijk,easy,adjectives,medium
+kennis maken,getting to know,verbs,perso
+ik stel me voor,I present myself,phrase,perso
+heten,to name,verbs,perso
+voornaam,first name,nouns,perso
+aanwezig,present,nouns,perso
+afwezig,absent,nouns,perso
+iemand voorstellen,present someone,nouns,perso
+elkaar voorstellen,present oneself,nouns,perso
+niemand,nobody,nouns,perso
+spelen,to spel,verbs,perso
+allemaal,everyone,nouns,perso
+welkom terug,welcome back,nouns,perso
+hoe ggat het,how are you,phrase,greeting
+en wie ben jij,and who are you,phrase,greeting
+vragen hoe het gaat,to ask how you are,phrase,greeting
+gaan,to go,verbs,perso
+goedemorgen,good morning,nouns,greeting
+groeten,to salute,verbs,greeting
+ik kom uit fankrijk,I am from France,phrase,greeting
+ik spreek frans,I speak french,phrase,greeting
+ik ben fransman,I am french,phrase,greeting
+ik heb the franse nationaliteit,I have the french nationality,phrase,greeting
+mijn moedertaal is frans,My mother tongue is french,phrase,greeting
+de fransen,the french,nouns,greeting
+moedertaal,mother tongue,nouns,greeting
+hebben,to have,verbs,perso
+ik ben getrouwd,I am married,phrase,greeting
+bugerlijke staat,marital status,nouns,greeting
+gescheiden,divorced,nouns,greeting
+vrijgezel,single,nouns,greeting
+koppel,in a relationship,nouns,greeting
+samenwonen,to live together,verbs,greeting
+hoe oud ben je,how old are you,phrase,greeting
+De leeftijd,age,nouns,greeting
+Het cijfer,number,nouns,perso
+een,1,nouns,number
+twee,2,nouns,number
+drie,3,nouns,number
+vier,4,nouns,number
+vijf,5,nouns,number
+zes,6,nouns,number
+zeven,7,nouns,number
+acht,8,nouns,number
+negen,9,nouns,number
+tien,10,nouns,number
+elf,11,nouns,number
+twaalf,12,nouns,number
+dertien,13,nouns,number
+veertien,14,nouns,number
+vijftien,15,nouns,number
+zestien,16,nouns,number
+zeventien,17,nouns,number
+achtien,18,nouns,number
+negentien,19,nouns,number
+twintig,20,nouns,number
+dertig,30,nouns,number
+veertig,40,nouns,number
+vijftig,50,nouns,number
+zestig,60,nouns,number
+zeventig,70,nouns,number
+tachtig,80,nouns,number
+negentig,90,nouns,number
+eenentwintig,21,nouns,number
+tweeentwitig,22,nouns,number
+drieentwintig,23,nouns,number
+vierenntwintig,24,nouns,number
+vijfentwintig,25,nouns,number
+zesentwintig,26,nouns,number
+zevenentwintig,27,nouns,number
+achtentwintig,28,nouns,number
+negenentwintig,29,nouns,number
+dertig,30,nouns,number
+eenendertig,31,nouns,number
+tweeëndertig,32,nouns,number
+drieëndertig,33,nouns,number
+vierendertig,34,nouns,number
+vijfendertig,35,nouns,number
+zesendertig,36,nouns,number
+zevenendertig,37,nouns,number
+achtendertig,38,nouns,number
+negenendertig,39,nouns,number
+veertig,40,nouns,number
+vijftig,50,nouns,number
+zestig,60,nouns,number
+zeventig,70,nouns,number
+tachtig,80,nouns,number
+negentig,90,nouns,number
+honderd,100,nouns,number
+tweehonderd,200,nouns,number
+driehonderd,300,nouns,number
+vierhonderd,400,nouns,number
+vijfhonderd,500,nouns,number
+zeshonderd,600,nouns,number
+zevenhonderd,700,nouns,number
+achthonderd,800,nouns,number
+negenhonderd,900,nouns,number
+duizend,1000,nouns,number
