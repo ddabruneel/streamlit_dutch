@@ -107,8 +107,8 @@ achtentwintig,28,nouns,number
 negenentwintig,29,nouns,number
 dertig,30,nouns,number
 eenendertig,31,nouns,number
-tweeëndertig,32,nouns,number
-drieëndertig,33,nouns,number
+tweeÃ«ndertig,32,nouns,number
+drieÃ«ndertig,33,nouns,number
 vierendertig,34,nouns,number
 vijfendertig,35,nouns,number
 zesendertig,36,nouns,number
@@ -131,3 +131,5 @@ zevenhonderd,700,nouns,number
 achthonderd,800,nouns,number
 negenhonderd,900,nouns,number
 duizend,1000,nouns,number
+de hoofstad, the capital, nouns, perso
+het land, the land, nouns, perso
