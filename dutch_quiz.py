@@ -216,7 +216,7 @@ if st.session_state.mode is None and not st.session_state.finished:
         st.session_state.filter_category = st.selectbox("Category", cats)
     with col2:
         diffs = ["All"] + sorted(df["difficulty"].unique().tolist())
-        st.session_state.filter_difficulty = st.selectbox("Difficulty", diffs)
+        st.session_state.filter_difficulty = st.selectbox("Topic", diffs)
     with col3:
         st.session_state.questions_per_session = st.selectbox("Questions", [5, 10, 15, 20], index=1)
  
