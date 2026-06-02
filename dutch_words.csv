@@ -34,22 +34,22 @@ verdrietig,sad,adjectives,medium
 gevaarlijk,dangerous,adjectives,medium
 interessant,interesting,adjectives,medium
 gemakkelijk,easy,adjectives,medium
-kennis maken,getting to know,verbs,perso
-ik stel me voor,I present myself,phrase,perso
-heten,to name,verbs,perso
-voornaam,first name,nouns,perso
-aanwezig,present,nouns,perso
-afwezig,absent,nouns,perso
-iemand voorstellen,present someone,nouns,perso
-elkaar voorstellen,present oneself,nouns,perso
-niemand,nobody,nouns,perso
-spelen,to spel,verbs,perso
-allemaal,everyone,nouns,perso
-welkom terug,welcome back,nouns,perso
+kennis maken,getting to know,verbs,medium
+ik stel me voor,I present myself,phrase,medium
+heten,to name,verbs,medium
+voornaam,first name,nouns,medium
+aanwezig,present,nouns,medium
+afwezig,absent,nouns,medium
+iemand voorstellen,present someone,nouns,medium
+elkaar voorstellen,present oneself,nouns,medium
+niemand,nobody,nouns,medium
+spelen,to spel,verbs,medium
+allemaal,everyone,nouns,medium
+welkom terug,welcome back,nouns,medium
 hoe ggat het,how are you,phrase,greeting
 en wie ben jij,and who are you,phrase,greeting
 vragen hoe het gaat,to ask how you are,phrase,greeting
-gaan,to go,verbs,perso
+gaan,to go,verbs,medium
 goedemorgen,good morning,nouns,greeting
 groeten,to salute,verbs,greeting
 ik kom uit fankrijk,I am from France,phrase,greeting
@@ -59,7 +59,7 @@ ik heb the franse nationaliteit,I have the french nationality,phrase,greeting
 mijn moedertaal is frans,My mother tongue is french,phrase,greeting
 de fransen,the french,nouns,greeting
 moedertaal,mother tongue,nouns,greeting
-hebben,to have,verbs,perso
+hebben,to have,verbs,medium
 ik ben getrouwd,I am married,phrase,greeting
 bugerlijke staat,marital status,nouns,greeting
 gescheiden,divorced,nouns,greeting
@@ -68,7 +68,7 @@ koppel,in a relationship,nouns,greeting
 samenwonen,to live together,verbs,greeting
 hoe oud ben je,how old are you,phrase,greeting
 De leeftijd,age,nouns,greeting
-Het cijfer,number,nouns,perso
+Het cijfer,number,nouns,medium
 een,1,nouns,number
 twee,2,nouns,number
 drie,3,nouns,number
@@ -131,5 +131,28 @@ zevenhonderd,700,nouns,number
 achthonderd,800,nouns,number
 negenhonderd,900,nouns,number
 duizend,1000,nouns,number
-de hoofstad, the capital, nouns, perso
-het land, the land, nouns, perso
+de hoofstad, the capital,nouns,medium
+het land, the land,nouns,medium
+maandag,Monday,nouns,time
+dinsdag,Tuesday,nouns,time
+woensdag,Wednesday,nouns,time
+donderdag,Thursday,nouns,time
+vrijdag,Friday,nouns,time
+zaterdag,Saturday,nouns,time
+zondag,Sunday,nouns,time
+januari,January,nouns,time
+februari,February,nouns,time
+maart,March,nouns,time
+april,April,nouns,time
+mei,May,nouns,time
+juni,June,nouns,time
+juli,July,nouns,time
+augustus,August,nouns,time
+september,September,nouns,time
+oktober,October,nouns,time
+november,November,nouns,time
+december,December,nouns,time
+lente,spring,nouns,time
+zomer,summer,nouns,time
+herfst,autumn,nouns,time
+winter,winter,nouns,time
